@@ -9,11 +9,16 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A single NAND gate is connected to inputs a and b.
 
 ## How to test
 
-Explain how to use your project
+| input a | input b | output nand |
+|---------|---------|-------------|
+|       0 |       0 |           1 |
+|       0 |       1 |           1 |
+|       1 |       0 |           1 |
+|       1 |       1 |           0 |
 
 ## External hardware
 
